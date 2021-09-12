@@ -1,0 +1,29 @@
+{
+  
+"result": true,
+  
+"plugins_": {
+  
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/dollarTM)",
+  
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/dollarTM)",
+  
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/dollarTM)",
+  
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/dollarTM)",
+      
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/dollarTM)",
+  
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/dollarTM)",
+  
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/dollarTM)",
+    
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/dollarTM)",
+  
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/dollarTM)",
+  
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/dollarTM)",
+  
+}
+  
+}
